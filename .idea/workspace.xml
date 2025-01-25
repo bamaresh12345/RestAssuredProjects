@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ab6d543-b531-49cb-a997-3cc17e139071" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CucumberFrameWork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberFrameWork/src/main/java/org/example1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberFrameWork/src/test/java/org/example1/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/JavaScriptExecuterTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/MultBrowserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/OOpsConceptsInFrameWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/StaticAndDynamicTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/groupingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/parallelTestsTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/uplaodFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/practiceMethods2/AlertsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssuredProject/src/test/java/FromFilesSchemaValidateBodyRequest/SchemaValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssuredProject/src/test/java/FromFilesSchemaValidateBodyRequest/SchemaValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssuredProject/src/test/java/LearnBasics/baseClassL.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssuredProject/src/test/java/LearnBasics/baseClassL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssuredProject/src/test/java/SeralizationANDDeSeralization/APIBaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssuredProject/src/test/java/SeralizationANDDeSeralization/APIBaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssuredProject/src/test/java/SeralizationANDDeSeralization/SeralizeANDDeSeralization.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssuredProject/src/test/java/SeralizationANDDeSeralization/SeralizeANDDeSeralization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/test/java/BaseClass/baseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/BaseClass/baseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/AlertsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/AlertsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/ScreenShots.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/ScreenShots.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/4.25.0/selenium-remote-driver-4.25.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.2/testng-7.10.2-sources.jar!/org/testng/internal/TestResult.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.2/testng-7.10.2-sources.jar!/org/testng/internal/invokers/TestInvoker.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qlre7r98Pr6EgCR0amYBZkGmH8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CreateBodyUsingHashMap.executor": "Run",
+    "Application.CreateBodyUsingJSONObject.executor": "Run",
+    "Application.SeralizaitonDeSerilazation.executor": "Run",
+    "Application.createBodyUsingPOJOObject.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AlertsExamples.executor": "Run",
+    "TestNG.AlertsExamples.verify_AlertTest.executor": "Debug",
+    "TestNG.BookingPostAPI.createBookingAPI.executor": "Run",
+    "TestNG.BookingPostAPI.fromJsonObject.executor": "Run",
+    "TestNG.BookingTests.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/GroupingTestng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/MultiBrowserDemotestng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/parallelTestTestng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/testng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/testng.xml.executor": "Run",
+    "TestNG.CheckBoxRadioButtons.Validate_CheckBoxes.executor": "Run",
+    "TestNG.CheckBoxRadioButtons.Verify_RadioButtons.executor": "Run",
+    "TestNG.CheckBoxRadioButtons.executor": "Run",
+    "TestNG.DropDownSelectionMethods.executor": "Run",
+    "TestNG.DropDownSelectionMethods.selectFromDropDownList.executor": "Run",
+    "TestNG.DropDownSelectionMethods.selectFromDropDownList2.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.ExplictWaits.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.ThreadSleep.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.implicitWaits.executor": "Run",
+    "TestNG.JavaScriptExecuterTests.executor": "Run",
+    "TestNG.JavaScriptExecuterTests.testJavaScriptExecuter.executor": "Run",
+    "TestNG.KeyBoardMouseClicks.keyboard.executor": "Run",
+    "TestNG.KeyBoardMouseClicks.mouse.executor": "Run",
+    "TestNG.LoginTest.How_to_Select_Locators_Browser.executor": "Run",
+    "TestNG.LoginTest.Waits_and_Navigation_Locators_Browser.executor": "Run",
+    "TestNG.LoginTest.launchheadlessBrowser.executor": "Run",
+    "TestNG.LoignTests.LoginUser (1).executor": "Run",
+    "TestNG.LoignTests.LoginUser.executor": "Run",
+    "TestNG.OOpsConceptsInFrameWork.CallingDropdownMethodstest1.executor": "Run",
+    "TestNG.OOpsConceptsInFrameWork.Polymorphosim_MethodOverLoading.executor": "Debug",
+    "TestNG.OOpsConceptsInFrameWork.test1.executor": "Run",
+    "TestNG.SchemaValidation.ReadtxtORJSonFiles.executor": "Run",
+    "TestNG.SchemaValidation.SchemaValidationFromFile.executor": "Run",
+    "TestNG.SchemaValidation.executor": "Run",
+    "TestNG.ScreenShots.executor": "Run",
+    "TestNG.ScreenShots.screenshot.executor": "Run",
+    "TestNG.SeralizaitonDeSerilazation.Seralization.executor": "Run",
+    "TestNG.SeralizeANDDeSeralization.executor": "Run",
+    "TestNG.SeralizeANDDeSeralization.serilazationUSEPOSTMethod.executor": "Run",
+    "TestNG.SeralizeANDDeSeralization.serilazationUSEPOSTMethodGet.executor": "Run",
+    "TestNG.StaticAndDynamicTables.StaticTables.executor": "Run",
+    "TestNG.StaticAndDynamicTables.executor": "Run",
+    "TestNG.TakeScreenShotsTest.TakeScreenShots.executor": "Run",
+    "TestNG.UserTests.executor": "Run",
+    "TestNG.UserTests.gerateToken.executor": "Run",
+    "TestNG.UserTests.testGetBooking.executor": "Run",
+    "TestNG.UserTests.testPostBooking.executor": "Run",
+    "TestNG.UserTests.testPostUser.executor": "Run",
+    "TestNG.testing.launchheadlessBrowser.executor": "Run",
+    "TestNG.testing.test1.executor": "Run",
+    "TestNG.uplaodFile.uplaodfile.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FromFilesSchemaValidateBodyRequest" />
+      <recent name="SeralizationANDDeSeralization" />
+      <recent name="LearnBasics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bamar\IdeaProjects\PlaywriteProject\SeleniumProject\target" />
+      <recent name="C:\Users\bamar\IdeaProjects\PlaywriteProject\src\test2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bamar\IdeaProjects\PlaywriteProject\SeleniumProject\target" />
+      <recent name="C:\Users\bamar\IdeaProjects\PlaywriteProject\RestAssuredProject\src\test\java" />
+      <recent name="C:\Users\bamar\IdeaProjects\PlaywriteProject\RestAssuredProject\src\test" />
+      <recent name="C:\Users\bamar\IdeaProjects\PlaywriteProject\RestAssuredProject\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SeralizationANDDeSeralization" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OOpsConceptsInFrameWork.Polymorphosim_MethodOverLoading">
+    <configuration name="AlertsExamples" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceMethods2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practiceMethods2" />
+      <option name="MAIN_CLASS_NAME" value="practiceMethods2.AlertsExamples" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOpsConceptsInFrameWork.CallingDropdownMethodstest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PracticeMethods" />
+      <option name="MAIN_CLASS_NAME" value="PracticeMethods.OOpsConceptsInFrameWork" />
+      <option name="METHOD_NAME" value="CallingDropdownMethodstest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOpsConceptsInFrameWork.Polymorphosim_MethodOverLoading" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PracticeMethods" />
+      <option name="MAIN_CLASS_NAME" value="PracticeMethods.OOpsConceptsInFrameWork" />
+      <option name="METHOD_NAME" value="Polymorphosim_MethodOverLoading" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOpsConceptsInFrameWork.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PracticeMethods" />
+      <option name="MAIN_CLASS_NAME" value="PracticeMethods.OOpsConceptsInFrameWork" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uplaodFile.uplaodfile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PracticeMethods" />
+      <option name="MAIN_CLASS_NAME" value="PracticeMethods.uplaodFile" />
+      <option name="METHOD_NAME" value="uplaodfile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OOpsConceptsInFrameWork.Polymorphosim_MethodOverLoading" />
+        <item itemvalue="TestNG.OOpsConceptsInFrameWork.CallingDropdownMethodstest1" />
+        <item itemvalue="TestNG.OOpsConceptsInFrameWork.test1" />
+        <item itemvalue="TestNG.uplaodFile.uplaodfile" />
+        <item itemvalue="TestNG.AlertsExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ab6d543-b531-49cb-a997-3cc17e139071" name="Changes" comment="" />
+      <created>1735248104683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735248104683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LoginTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LoginTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LoginTest.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/AlertsExamples.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/AlertsExamples.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/DropDownSelectionMethods.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/ScreenShots.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RestAssuredProject/src/test/java/SeralizationANDDeSeralization/APIBaseClass.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RestAssuredProject/src/test/java/Test2FrameWork/EndPoints/BookingEndPoints.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RestAssuredProject/src/test/java/Test2FrameWork/Tests/BookingTests.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/StaticAndDynamicTables.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/BaseClass/baseClass.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/OOpsConceptsInFrameWork.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Selenium/keyBoardMouseClicks.java</url>
+          <line>42</line>
+          <properties class="Selenium.keyBoardMouseClicks">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/SeleniumProject/src/test/java/PracticeMethods/uplaodFile.java</url>
+          <line>22</line>
+          <properties class="PracticeMethods.uplaodFile" method="uplaodfile">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

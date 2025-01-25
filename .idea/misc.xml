@@ -7,7 +7,14 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SeleniumProject/pom.xml" />
         <option value="$PROJECT_DIR$/RestAssuredProject/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/CucumberFrameWork/pom.xml" />
+        <option value="$PROJECT_DIR$/CucumberFrameWork/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/CucumberFrameWork/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="zulu-11" project-jdk-type="JavaSDK">

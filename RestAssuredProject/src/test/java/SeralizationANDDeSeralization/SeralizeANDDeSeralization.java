@@ -8,6 +8,17 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.testng.annotations.Test;
 
+/*
+Serialization – Convert the class's objects of POJO to JSON
+Deserialization – Convert a JSON object to an object of the class of POJO.
+We generally use POJOs to create JSON payload and convert JSON response payload to Java objects
+conversions can be done with help of Java libraries like Jackson, Gson etc
+
+Use overloaded obejct mapper writValuAasString() method    --> to convert POJO to JSON
+Use overloaded obejct mapper readValue() method    --> to convert  JSON to POJO
+
+ */
+
 public class SeralizeANDDeSeralization extends  APIBaseClass{
 
     @Test
@@ -34,7 +45,7 @@ public class SeralizeANDDeSeralization extends  APIBaseClass{
 
 
     @Test
-    public void serilazationUSEPOSTMethodGet() throws JsonProcessingException {
+    public void DserilazationUSEPOSTMethodGet() throws JsonProcessingException {
 
         String baseURI = "https://jsonplaceholder.typicode.com/users/";
 

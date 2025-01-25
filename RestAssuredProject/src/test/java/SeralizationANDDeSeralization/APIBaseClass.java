@@ -55,6 +55,7 @@ public class APIBaseClass {
                 .header("Content-Type","application/json")
                 .queryParam("firstname", "Amar")                        // firstname=Amar & lastname= Testing
                 .queryParam("lastname", "Testing").log().all()
+                //.baseUri("")
                 .when()
                 .get(uri)
                 .then().log().all()

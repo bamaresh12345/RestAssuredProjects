@@ -130,6 +130,7 @@ public class SchemaValidation {
                 .when()
                 .put("{bookingid}",bookingId)   // bookingId from data chaining
                 .then()
+                //.assertThat().body(JsonSchemaValidator.matchesJsonSchema("file.json"))
                 .extract()
                 .response();
 
