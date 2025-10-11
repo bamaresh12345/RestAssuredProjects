@@ -9,5 +9,6 @@ public class TestOne {
         System.out.println("check local or Remote");
         System.out.println("check local or Remote");
         System.out.println("check local or Remote");
+        System.out.println("ICE");
     }
 }
