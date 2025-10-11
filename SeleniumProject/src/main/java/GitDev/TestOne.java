@@ -7,5 +7,6 @@ public class TestOne {
 
         System.out.println("TestOne added File");
         System.out.println("check local or Remote");
+        System.out.println("check local or Remote");
     }
 }
