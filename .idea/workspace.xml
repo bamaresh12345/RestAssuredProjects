@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ab6d543-b531-49cb-a997-3cc17e139071" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/main/java/GitDev/devClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/GitTesting1/testClass.java" afterDir="false" />
+    <list default="true" id="5ab6d543-b531-49cb-a997-3cc17e139071" name="Changes" comment="commit all files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/main/java/GitDev/TestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/main/java/GitDev/TestOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/test/java/GitTesting1/TestOne1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/GitTesting1/TestOne1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,20 +22,35 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bamaresh12345"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bamaresh12345&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/bamaresh12345/RestAssuredProjects.git",
-    "accountId": "1030108f-4906-4aa3-be0b-d7842d18bf8d"
+}</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="commit devclass test class&#10;TestOne TestONe1" />
+        <option name="rewordedMessage" value="commit devclass test class&#10;TestOne TestONe1" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="c59a578ba32b364765ae1e52f9b7c1f080ce124a" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bamaresh12345/RestAssuredProjects.git&quot;,
+    &quot;accountId&quot;: &quot;1030108f-4906-4aa3-be0b-d7842d18bf8d&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/4.25.0/selenium-remote-driver-4.25.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.2/testng-7.10.2-sources.jar!/org/testng/internal/TestResult.java" root0="SKIP_INSPECTION" />
@@ -48,72 +64,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CreateBodyUsingHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CreateBodyUsingJSONObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SeralizaitonDeSerilazation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.createBodyUsingPOJOObject.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.AlertsExamples.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AlertsExamples.verify_AlertTest.executor&quot;: &quot;Debug&quot;,
-    &quot;TestNG.BookingPostAPI.createBookingAPI.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.BookingPostAPI.fromJsonObject.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.BookingTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/GroupingTestng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/MultiBrowserDemotestng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/parallelTestTestng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CheckBoxRadioButtons.Validate_CheckBoxes.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CheckBoxRadioButtons.Verify_RadioButtons.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.CheckBoxRadioButtons.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.DropDownSelectionMethods.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.DropDownSelectionMethods.selectFromDropDownList.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.DropDownSelectionMethods.selectFromDropDownList2.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ImplicitWaitsAndExplicitWaits.ExplictWaits.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ImplicitWaitsAndExplicitWaits.ThreadSleep.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ImplicitWaitsAndExplicitWaits.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ImplicitWaitsAndExplicitWaits.implicitWaits.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.JavaScriptExecuterTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.JavaScriptExecuterTests.testJavaScriptExecuter.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.KeyBoardMouseClicks.keyboard.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.KeyBoardMouseClicks.mouse.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.How_to_Select_Locators_Browser.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.Waits_and_Navigation_Locators_Browser.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.launchheadlessBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoignTests.LoginUser (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoignTests.LoginUser.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.OOpsConceptsInFrameWork.CallingDropdownMethodstest1.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.OOpsConceptsInFrameWork.Polymorphosim_MethodOverLoading.executor&quot;: &quot;Debug&quot;,
-    &quot;TestNG.OOpsConceptsInFrameWork.test1.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SchemaValidation.ReadtxtORJSonFiles.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SchemaValidation.SchemaValidationFromFile.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SchemaValidation.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ScreenShots.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ScreenShots.screenshot.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SeralizaitonDeSerilazation.Seralization.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SeralizeANDDeSeralization.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SeralizeANDDeSeralization.serilazationUSEPOSTMethod.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SeralizeANDDeSeralization.serilazationUSEPOSTMethodGet.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.StaticAndDynamicTables.StaticTables.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.StaticAndDynamicTables.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TakeScreenShotsTest.TakeScreenShots.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.UserTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.UserTests.gerateToken.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.UserTests.testGetBooking.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.UserTests.testPostBooking.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.UserTests.testPostUser.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.testing.launchheadlessBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.testing.test1.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.uplaodFile.uplaodfile.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CreateBodyUsingHashMap.executor": "Run",
+    "Application.CreateBodyUsingJSONObject.executor": "Run",
+    "Application.SeralizaitonDeSerilazation.executor": "Run",
+    "Application.createBodyUsingPOJOObject.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AlertsExamples.executor": "Run",
+    "TestNG.AlertsExamples.verify_AlertTest.executor": "Debug",
+    "TestNG.BookingPostAPI.createBookingAPI.executor": "Run",
+    "TestNG.BookingPostAPI.fromJsonObject.executor": "Run",
+    "TestNG.BookingTests.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/GroupingTestng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/MultiBrowserDemotestng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/parallelTestTestng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target/testng.xml.executor": "Run",
+    "TestNG.C:/Users/bamar/IdeaProjects/PlaywriteProject/testng.xml.executor": "Run",
+    "TestNG.CheckBoxRadioButtons.Validate_CheckBoxes.executor": "Run",
+    "TestNG.CheckBoxRadioButtons.Verify_RadioButtons.executor": "Run",
+    "TestNG.CheckBoxRadioButtons.executor": "Run",
+    "TestNG.DropDownSelectionMethods.executor": "Run",
+    "TestNG.DropDownSelectionMethods.selectFromDropDownList.executor": "Run",
+    "TestNG.DropDownSelectionMethods.selectFromDropDownList2.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.ExplictWaits.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.ThreadSleep.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.executor": "Run",
+    "TestNG.ImplicitWaitsAndExplicitWaits.implicitWaits.executor": "Run",
+    "TestNG.JavaScriptExecuterTests.executor": "Run",
+    "TestNG.JavaScriptExecuterTests.testJavaScriptExecuter.executor": "Run",
+    "TestNG.KeyBoardMouseClicks.keyboard.executor": "Run",
+    "TestNG.KeyBoardMouseClicks.mouse.executor": "Run",
+    "TestNG.LoginTest.How_to_Select_Locators_Browser.executor": "Run",
+    "TestNG.LoginTest.Waits_and_Navigation_Locators_Browser.executor": "Run",
+    "TestNG.LoginTest.launchheadlessBrowser.executor": "Run",
+    "TestNG.LoignTests.LoginUser (1).executor": "Run",
+    "TestNG.LoignTests.LoginUser.executor": "Run",
+    "TestNG.OOpsConceptsInFrameWork.CallingDropdownMethodstest1.executor": "Run",
+    "TestNG.OOpsConceptsInFrameWork.Polymorphosim_MethodOverLoading.executor": "Debug",
+    "TestNG.OOpsConceptsInFrameWork.test1.executor": "Run",
+    "TestNG.SchemaValidation.ReadtxtORJSonFiles.executor": "Run",
+    "TestNG.SchemaValidation.SchemaValidationFromFile.executor": "Run",
+    "TestNG.SchemaValidation.executor": "Run",
+    "TestNG.ScreenShots.executor": "Run",
+    "TestNG.ScreenShots.screenshot.executor": "Run",
+    "TestNG.SeralizaitonDeSerilazation.Seralization.executor": "Run",
+    "TestNG.SeralizeANDDeSeralization.executor": "Run",
+    "TestNG.SeralizeANDDeSeralization.serilazationUSEPOSTMethod.executor": "Run",
+    "TestNG.SeralizeANDDeSeralization.serilazationUSEPOSTMethodGet.executor": "Run",
+    "TestNG.StaticAndDynamicTables.StaticTables.executor": "Run",
+    "TestNG.StaticAndDynamicTables.executor": "Run",
+    "TestNG.TakeScreenShotsTest.TakeScreenShots.executor": "Run",
+    "TestNG.UserTests.executor": "Run",
+    "TestNG.UserTests.gerateToken.executor": "Run",
+    "TestNG.UserTests.testGetBooking.executor": "Run",
+    "TestNG.UserTests.testPostBooking.executor": "Run",
+    "TestNG.UserTests.testPostUser.executor": "Run",
+    "TestNG.testing.launchheadlessBrowser.executor": "Run",
+    "TestNG.testing.test1.executor": "Run",
+    "TestNG.uplaodFile.uplaodfile.executor": "Run",
+    "git-widget-placeholder": "checklocalorRemote",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="FromFilesSchemaValidateBodyRequest" />
@@ -226,10 +242,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.uplaodFile.uplaodfile" />
+        <item itemvalue="TestNG.OOpsConceptsInFrameWork.test1" />
         <item itemvalue="TestNG.OOpsConceptsInFrameWork.Polymorphosim_MethodOverLoading" />
         <item itemvalue="TestNG.OOpsConceptsInFrameWork.CallingDropdownMethodstest1" />
-        <item itemvalue="TestNG.OOpsConceptsInFrameWork.test1" />
-        <item itemvalue="TestNG.uplaodFile.uplaodfile" />
         <item itemvalue="TestNG.AlertsExamples" />
       </list>
     </recent_temporary>
@@ -243,6 +259,55 @@
       <option name="presentableId" value="Default" />
       <updated>1735248104683</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit devclass test class&#10;TestOne TestONe1">
+      <option name="closed" value="true" />
+      <created>1760152515037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760152515037</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit devclass test class&#10;TestOne TestONe1">
+      <option name="closed" value="true" />
+      <created>1760152561144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760152561144</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit Only&#10;TestOne TestONe1">
+      <option name="closed" value="true" />
+      <created>1760152965747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760152965748</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit all files">
+      <option name="closed" value="true" />
+      <created>1760154631306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760154631306</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit all files">
+      <option name="closed" value="true" />
+      <created>1760155000676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760155000676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit all files">
+      <option name="closed" value="true" />
+      <created>1760155405861</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760155405861</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,11 +315,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Feature/TestOneFiles" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit devclass test class&#10;TestOne TestONe1" />
+    <MESSAGE value="commit Only&#10;TestOne TestONe1" />
+    <MESSAGE value="commit all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
