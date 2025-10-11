@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ab6d543-b531-49cb-a997-3cc17e139071" name="Changes" comment="commit all files">
+    <list default="true" id="5ab6d543-b531-49cb-a997-3cc17e139071" name="Changes" comment="Account1Dev  Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/main/java/GitDev/TestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/main/java/GitDev/TestOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/test/java/GitTesting1/TestOne1.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/test/java/GitTesting1/TestOne1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumProject/src/main/java/GitDev/Account1Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumProject/src/main/java/GitDev/Account1Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="ICE" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,7 +123,7 @@
     "TestNG.testing.launchheadlessBrowser.executor": "Run",
     "TestNG.testing.test1.executor": "Run",
     "TestNG.uplaodFile.uplaodfile.executor": "Run",
-    "git-widget-placeholder": "checklocalorRemote",
+    "git-widget-placeholder": "AccountsChanges",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/bamar/IdeaProjects/PlaywriteProject/SeleniumProject/target",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -307,7 +306,47 @@
       <option name="project" value="LOCAL" />
       <updated>1760155405861</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit all files">
+      <option name="closed" value="true" />
+      <created>1760204234749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760204234749</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit all files">
+      <option name="closed" value="true" />
+      <created>1760204642020</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760204642020</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit all files">
+      <option name="closed" value="true" />
+      <created>1760207339433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760207339433</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Account1Dev  Commit">
+      <option name="closed" value="true" />
+      <created>1760207645837</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760207645837</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Account1Dev  Commit">
+      <option name="closed" value="true" />
+      <created>1760207929221</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760207929222</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,7 +376,8 @@
     <MESSAGE value="commit devclass test class&#10;TestOne TestONe1" />
     <MESSAGE value="commit Only&#10;TestOne TestONe1" />
     <MESSAGE value="commit all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit all files" />
+    <MESSAGE value="Account1Dev  Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Account1Dev  Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
