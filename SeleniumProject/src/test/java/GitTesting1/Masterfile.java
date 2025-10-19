@@ -1,6 +1,4 @@
-package GitTesting1;
-
-///this for teistng from MAstre branch file newly added
+this for teistng from MAstre branch file newly added
 // Simple program to add two numbers in Java
 public class Masterfile {
     public static void main(String[] args) {
@@ -11,9 +9,11 @@ public class Masterfile {
 
         System.out.println("The sum is: " + sum);
 
-      //  this for teistng pelase ifnore it
-        System.out.println("The sum is: " + sum);
-        System.out.println("The sum is: " + sum);
+          int num1 = 10;  // first number
+        int num2 = 20;  // second number
+
+        int sum = num1 + num2;  // add the numbers
+
         System.out.println("The sum is: " + sum);
     }
 }
