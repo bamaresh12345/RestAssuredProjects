@@ -1,6 +1,4 @@
-package GitTesting1;
-
-//this for teistng from MAstre branch file newly added
+this for teistng from MAstre branch file newly added
 // Simple program to add two numbers in Java test
 public class Masterfile {
     public static void main(String[] args) {
