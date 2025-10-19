@@ -18,5 +18,6 @@ public class Masterfile {
 
         System.out.println("The sum is: " + sum);
         System.out.println("The sum is: " + sum); // newly added
+          System.out.println("The sum is: " + sum); // newly added
     }
 }
