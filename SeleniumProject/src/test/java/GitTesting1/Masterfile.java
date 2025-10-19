@@ -15,5 +15,6 @@ public class Masterfile {
         int sum = num1 + num2;  // add the numbers
 
         System.out.println("The sum is: " + sum);
+           System.out.println("The sum is: " + sum); // newly added
     }
 }
